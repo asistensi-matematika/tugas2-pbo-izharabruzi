@@ -1,8 +1,8 @@
 # TUGAS 2 ASISTENSI PBO - Jumat, 27 September 2019
 *soal ini berbobot lebih daripada soal sebelah*
-NAMA: `isi nama disini`
+NAMA: Izhar Brur Abruzi
 
-NRP: `isi nrp disini`
+NRP: `06111840000101
 
 
 ## DESKRIPSI SOAL
@@ -48,6 +48,8 @@ output: -27i3
 
 ## screenshot hasil
 ![image](https://user-images.githubusercontent.com/55840898/66183872-82809280-e6a4-11e9-9b07-caa14190c53e.png)
+![image](https://user-images.githubusercontent.com/55840898/66183919-a5ab4200-e6a4-11e9-9b98-fedb19023466.png)
+
 
 
 ## UPLOAD
