@@ -47,7 +47,8 @@ output: -27i3
 ```
 
 ## screenshot hasil
-`masukkan screenshot output disini`
+![image](https://user-images.githubusercontent.com/55840898/66183872-82809280-e6a4-11e9-9b07-caa14190c53e.png)
+
 
 ## UPLOAD
 upload seluruh folder project java-nya ke repository ini.
