@@ -32,12 +32,12 @@ penjelasan:(1+3i) * (2+i) = 2 + i + 6i + i2 = 1+7i
 ## soal
 ```
 input:"4i","3-7i"
-output:...
+output: 28+12i
 ```
 
 ```
 input:"7+6i","7+6i"
-output:...
+output: 13+84i
 ```
 
 ### 1 extra mile
